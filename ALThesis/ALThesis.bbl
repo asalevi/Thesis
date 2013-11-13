@@ -1,0 +1,87 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{ArnoldMechanics}
+V.I. Arnold, \emph{Mathematical methods of classical mechanics},
+  Springer-Verlag, New York, NY, USA, 1989.
+
+\bibitem{ArnoldInvariants}
+\bysame, \emph{Topological invariants of plane curves and caustics}, AMS,
+  Providence, RI, USA, 1994.
+
+\bibitem{ArnoldPDE}
+\bysame, \emph{Lectures on partial differential equations}, Springer-Verlag,
+  New York, NY, USA, 2004.
+
+\bibitem{ChernovDefn}
+V.~Chernov, Private communication.
+
+\bibitem{ft}
+S.~Tabachnikov D.~Fuchs, \emph{Invariants of legendrian and transverse knots in
+  the standard contact space}, Topology \textbf{36} (1997), no.~5, 1025--1053.
+
+\bibitem{Goryunov}
+V.~Goryunov, \emph{Finite order invariants of framed knots in a solid torus and
+  in arnold's (j+)-theory of plane curves}, Geometry and physics (Aarhus, 1995)
+  (New York, NY, USA), Lecture Notes in Pure and Applied Math, vol. 184,
+  Dekker, 1997, pp.~549--556.
+
+\bibitem{Hill}
+J.~Hill, \emph{Vassiliev-type invariants of planar fronts without dangerous
+  self-tangencies}, C. R. Acad. Sci. Paris \textbf{324} (1997), no.~5,
+  537--542.
+
+\bibitem{CKS}
+M.~Saito J.~S.~Carter, S.~Kamada, \emph{Stable equivalence of knots on surfaces
+  and virtual knot cobordisms}, J. Knot Theory Ramifications \textbf{11}
+  (2002), 311--322.
+
+\bibitem{Kauffman}
+L.~Kauffman, \emph{Virtual knot theory}, European J. Combin. \textbf{20}
+  (1999), no.~7, 663--690.
+
+\bibitem{Kinlaw}
+P.~Kinlaw, \emph{Refocusing of light rays in space-time}, J. Math. Phys.
+  \textbf{52} (2011), no.~5, 52505--52516.
+
+\bibitem{Kuperberg}
+G.~Kuperberg, \emph{What is a virtual link?}, Algebraic and Geometric Topology
+  \textbf{3} (2003), 587--591.
+
+\bibitem{LowCS}
+R.~J. Low, \emph{Celestial spheres, light cones and cuts}, J. Math. Phys.
+  \textbf{34} (1993), no.~1, 315--319.
+
+\bibitem{LowSS}
+\bysame, \emph{Stable singularities of wave-fronts in general relativity}, J.
+  Math. Phys. \textbf{39} (1998), no.~6, 3332--3335.
+
+\bibitem{LowNull}
+\bysame, \emph{The space of null geodesics}, Proceedings of the Third World
+  Congress of Nonlinear Analysts (Catania, 2000), vol.~5, Catania, 2001,
+  pp.~3005--3017.
+
+\bibitem{GPV}
+O.~Viro M.~Goussarov, M.~Polyak, \emph{Finite-type invariants of classical and
+  virtual knots}, Topology \textbf{39} (2000), 1045--1068.
+
+\bibitem{Polyak}
+M.~Polyak, \emph{Invariants of curves and fronts via gauss diagrams}, Topology
+  \textbf{37} (1998), no.~5, 989--1009.
+
+\bibitem{Chernov}
+V.~Chernov (Tchernov), \emph{Vassiliev invariants of legendrian, transverse,
+  and framed knots in contact three-manifolds}, Topology \textbf{42} (2003),
+  1--33.
+
+\bibitem{Turaev}
+V.~Turaev, \emph{Virtual strings}, Ann. Inst. Fourier \textbf{54} (2004),
+  no.~7, 2455--2525.
+
+\end{thebibliography}

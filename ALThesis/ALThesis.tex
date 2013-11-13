@@ -1,0 +1,224 @@
+\documentclass[copyright, final]{dcthesis}
+%\documentclass[draft, singlespacing]{dcthesis}
+%  Some good options are draft and singlespacing, for drafts, and *final*,
+%for the final cut, and noheadings, for a printout without headings.
+%You can also use the copyright option to add a copyright.  Note:
+%final will enforce a bunch of different options, like oneside, 12pt
+%and doublespacing, as well as make the margins correct.   Draft, has
+%larger margins and is appropriate for twosided printing.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%    IMPORTANT     %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  Because dvips doesn't know/care about the page size of the dvi file
+%  its working on, and because its so important that the margins of
+%  your thesis are correct you have to make sure that you are using
+%  the command dvi -t letter *thesisnamehere*
+%
+%  If you are using a terminal this is straightforward, but if you are
+%  using a tex editing program it make take a little bit of searching
+%  before you figure out how to make this work.
+%
+%  Alternatively, you might consider compiling using pdflatex, which
+%  compiles straight to a PDF and doesn't have this problem.
+
+
+
+%Packages
+%  Add your own packages as desired.
+%\usepackage{comment}
+\usepackage{amsmath,amssymb,amsthm}
+%\usepackage{mathrsfs}
+%\usepackage{shapepar}
+\usepackage{graphicx}
+\usepackage{color, soul}
+%\usepackage[dvipsnames, usenames]{color}
+%\usepackage[all, dvips, arc, curve, color, frame]{xy}
+%\usepackage[colorlinks = true, final]{hyperref}
+%\usepackage{makeidx}
+%\usepackage{float}
+%\usepackage{subcaption}
+%\usepackage{wasysym}
+%\usepackage{tikz}
+\makeindex
+%Uncomment if you would like to have an index. Compiling with an
+%index takes more work than compiling without one.  You will have to
+%look up how to use the index package.
+\usepackage{index}
+\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{subfig}
+\usepackage{amsmath}
+\usepackage{color}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\swapnumbers 
+\numberwithin{equation}{section} 
+%\input scrload 
+%\input amssymb.sty 
+
+\theoremstyle{plain} 
+\newtheorem{thm}{Theorem}[section] 
+\newtheorem{cor}[thm]{Corollary} 
+\newtheorem{cory}[thm]{Corollary} 
+\newtheorem{lem}[thm]{Lemma} 
+\newtheorem{conjec}[thm]{Conjecture} 
+\allowdisplaybreaks
+\newcommand\theoref{Theorem~\ref} 
+\newcommand\lemref{Lemma~\ref} 
+\newcommand\propref{Proposition~\ref} 
+\newcommand\coryref{Corollary~\ref} 
+
+%\theoremstyle{remark} 
+\graphicspath{/4-3-2012-Moscow}
+\theoremstyle{definition} 
+\newtheorem{defin}[thm]{Definition} 
+\newtheorem{defins}[thm]{Definitions} 
+\newtheorem{emf}[section]{} 
+\newtheorem{rem}[thm]{Remark} 
+\newtheorem{rems}[thm]{Remarks} 
+\newtheorem{exs}[thm]{Examples} 
+\newtheorem{con}[thm]{Construction} 
+\newtheorem{notat}[thm]{Notation} 
+\newtheorem{sourex}[thm]{Source of Examples} 
+\newtheorem{comment}[thm]{Comment} 
+\def\pp{\medskip{\parindent 0pt \it Proof.\ }} 
+\graphicspath{/4-3-2012-Moscow/}
+\def\fh{{\hat{\pi}}}
+\def\sgn{\protect\operatorname{sgn}}
+\def\im{\protect\operatorname{Im}}
+
+%Formatting
+%  Change or add to as desired.
+%  These two commands make the first enumerations look like (a)
+%  And the second level like (i).
+\renewcommand{\labelenumi}{(\alph{enumi})}
+\renewcommand{\labelenumii}{(\roman{enumii})}
+%  These commands make the section headings Boldface and not all
+%  caps. It also removes the chapter numbers
+\renewcommand{\chaptermark}[1]{\markboth{{\bf #1}}{{\bf #1}}}
+\renewcommand{\sectionmark}[1]{\markright{{\bf \thesection\ #1}}}
+%  These commands have lowercase headings with chapter numbers.
+%\renewcommand{\chaptermark}[1]{markboth{#1}{}}
+%\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+
+
+%Theorem Declarations
+%  A basic set of theorem declarations.  Add or remove as desired.
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{claim}{Claim}[chapter]
+\newtheorem{prop}{Proposition}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{guess}{Conjecture}[chapter]
+\newtheorem{conjecture}{Conjecture}[chapter]
+
+\theoremstyle{definition}
+\newtheorem{defn}{Definition}[chapter]
+\newtheorem{remark}{Remark}[chapter]
+\allowdisplaybreaks
+
+\theoremstyle{remark}
+\newtheorem{ex}{Example}[chapter]
+\newtheorem{note}{Notation}
+
+\newcommand{\R}{\mathbb{R}}
+\renewcommand{\P}{\mathbb{P}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\N}{\mathbb{N}}
+
+
+
+
+%Title Page Information
+%  Your personal info goes here!
+\title{A Result on Refocussing and an Introduction to Virtual Legendrian Knots}
+\author{Asa Levi}
+\date{2013?}
+\field{Mathematics}
+\degree{Doctor of Philosophy}
+%As an optional arguement to \committee you can specify the
+%dean of graduate studies
+\committee{Vladimir Chernov}{Peter Doyle}{Erik van Erp}{Alexander Shumakovitch}
+
+\begin{document}
+
+%Front end of thesis
+\frontmatter
+
+\maketitle
+
+%Abstract
+%NOTE:  Must be less than 350 words.
+\chapter*{}
+\section*{Abstract}
+%This is so the abstract appears in the ToC
+\addcontentsline{toc}{section}{Abstract}
+We begin with a result on the refocussing of null geodesics in space-times.  A Lorentz manifold $M$ is \emph{strongly refocussing} if there exists points $x \neq y\in M$ such that all of the null geodesics passing through $x$ also pass through $y$.  In \cite{LowCS}, \cite{LowSS} and \cite{LowNull} Low introduced the following definition of a \emph{weakly refocussing} or \emph{refocussing} Lorentz manifold.  A Lorentz manifold $M$ is \emph{refocussing} if there exists $x\in M$ and an open neighborhood $U$ of $x$ such that for all $V\subset U$ containing $x$ there exists $y \notin U$ such that all the null geodesics passing through $y$ also pass through $V$.  We show that all oriented refocussing 2-dimensional Lorentz manifolds are also strongly refocussing.
+
+We also introduce a theory of virtual Legendrian knots.  We show that the groups of Vassiliev invariants of virtual Legendrian knots and of virtual framed knots in the spherical cotangent bundle of an oriented surface are isomorphic.  In particular, Vassiliev invariants cannot be used to distinguish virtual Legendrian knots which are isotopic as virtual framed knots and have equal virtual Maslov number.
+
+\newpage
+\vspace{1 in}
+\section*{Acknowledgements}
+\addcontentsline{toc}{section}{Acknowledgements}
+I am deeply grateful to my advisor Vladimir Chernov for his patient guidance through my studies.  He introduced me to both Lorentz geometry and knot theory and suggested many of the definitions and techniques used in the text.
+
+The results in this text on virtual Legendian knot theory are joint with Patricia Cahn.  I am also truly indebted to her time she spent helping me hone my mathematical writing skills.
+
+\section*{Preface}
+\addcontentsline{toc}{section}{Preface}
+The text is divided into two main sections.  First we begin with a result on refocussing in the field of Lorentz geometry.  Then we proceed to introduce a theory of virtual Legendrian knots.  The results in this section follow from our joint paper with Patricia Cahn.  We have assumed the reader has a basic knowledge of Riemennian Geometry and Differential Topology, but have not assumed any background in knot theory or Lorentz geometry.
+
+
+%Table of Contents
+\tableofcontents
+
+%Add a list of tables
+\listoftables
+
+%Add a list of figures
+%\listoffigures
+
+
+%Main Portion of Thesis
+\mainmatter
+
+\begin{chapter}{Refocussing in Two Dimensional Spacetimes}\label{ch refocussing}
+\input{refocussing}
+\end{chapter}
+
+\begin{chapter}{Virtual Legendrian Knots}\label{ch vlk}
+\input{vlk}
+\end{chapter}
+%\appendix
+%\begin{chapter}{}
+%\input{Appendix}
+%\end{chapter}
+
+%Backend of thesis (references and the like)
+\backmatter
+
+
+\cleardoublepage
+
+%\phantomsection
+%\addcontentsline{toc}{chapter}{Index}
+%\printindex
+\cleardoublepage
+
+\nocite{BGRL2001}
+
+%\phantomsection
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{amsplain}
+\bibliography{biblio}
+
+\end{document}
+

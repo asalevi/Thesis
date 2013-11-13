@@ -1,0 +1,635 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.28)  12 NOV 2013 22:55
+entering extended mode
+**C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/ALThesis.tex
+(C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/ALThesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\dcthesis.cls
+Document Class: dcthesis 2007/06/22 v1.0 dcLaTeX Thesis Class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+\@marginsize=\skip52
+\@smarginsize=\skip53
+\@tmarginsize=\skip54
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\classes\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip58
+\thm@postskip=\skip59
+\thm@headsep=\skip60
+\dth@everypar=\toks24
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks26
+\SOUL@lasttoken=\toks27
+\SOUL@cmds=\toks28
+\SOUL@buffer=\toks29
+\SOUL@token=\toks30
+\SOUL@spaceskip=\skip61
+\SOUL@ttwidth=\dimen114
+\SOUL@uldp=\dimen115
+\SOUL@ulht=\dimen116
+)
+\@indexfile=\write3
+
+Writing index file ALThesis.idx
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\index\index.sty"
+Package: index 2004/01/20 v4.2beta Improved index support (dmj)
+\@indexbox=\insert233
+\indexproofstyle=\toks31
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+
+
+LaTeX Warning: Command \@starttoc  has changed.
+               Check if current package is valid.
+
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/01/06 v3.3 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/01/06 v1.5 caption3 kernel (AR)
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@ContinuedFloat=\count101
+)
+\c@KVtest=\count102
+\sf@farskip=\skip62
+\sf@captopadj=\dimen124
+\sf@capskip=\skip63
+\sf@nearskip=\skip64
+\c@subfigure=\count103
+\c@subfigure@save=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@subtable@save=\count107
+\c@lotdepth=\count108
+\sf@top=\skip65
+\sf@bottom=\skip66
+)
+\c@thm=\count109
+\c@theorem=\count110
+\c@claim=\count111
+\c@prop=\count112
+\c@lemma=\count113
+\c@corollary=\count114
+\c@guess=\count115
+\c@conjecture=\count116
+\c@defn=\count117
+\c@remark=\count118
+\c@ex=\count119
+\c@note=\count120
+
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\ALThesis.aux
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfigureExample' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen125
+\scratchbox=\box28
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen126
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks33
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 155.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 155.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [0
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1] [2] [3
+
+
+
+] [4]
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\ALThesis.toc
+[5
+
+])
+\tf@toc=\write4
+ [6]
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\ALThesis.lot)
+\tf@lot=\write5
+
+[7
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 191.
+
+Chapter 1.
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\refocussing.tex
+[1
+
+
+
+
+] [2] [3] [4] <simpleRefocussingNbhd.pdf, id=50, 481.8pt x 160.6pt>
+File: simpleRefocussingNbhd.pdf Graphic file (type pdf)
+
+<use simpleRefocussingNbhd.pdf>
+Package pdftex.def Info: simpleRefocussingNbhd.pdf used on input line 68.
+(pdftex.def)             Requested size: 341.43306pt x 113.81358pt.
+
+<refocussingNbhd.pdf, id=51, 481.8pt x 160.6pt>
+File: refocussingNbhd.pdf Graphic file (type pdf)
+ <use refocussingNbhd.pdf>
+Package pdftex.def Info: refocussingNbhd.pdf used on input line 82.
+(pdftex.def)             Requested size: 341.43306pt x 113.81358pt.
+
+[5] [6 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/simpleRefo
+cussingNbhd.pdf> <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/
+refocussingNbhd.pdf>]) [7]
+Chapter 2.
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\vlk.tex [8
+
+]
+<dangerousTangencyMove.pdf, id=140, 605.26125pt x 302.12875pt>
+File: dangerousTangencyMove.pdf Graphic file (type pdf)
+
+<use dangerousTangencyMove.pdf>
+Package pdftex.def Info: dangerousTangencyMove.pdf used on input line 15.
+(pdftex.def)             Requested size: 142.26378pt x 71.01408pt.
+ [9 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/dangerousTang
+encyMove.pdf>]
+<wavefrontmoves.pdf, id=151, 432.61626pt x 633.36626pt>
+File: wavefrontmoves.pdf Graphic file (type pdf)
+
+<use wavefrontmoves.pdf>
+Package pdftex.def Info: wavefrontmoves.pdf used on input line 31.
+(pdftex.def)             Requested size: 170.71652pt x 249.93048pt.
+ [10] [11 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/wavefro
+ntmoves.pdf>] [12] [13] [14]
+<virtualwavefrontmoves.pdf, id=176, 693.59125pt x 412.54124pt>
+File: virtualwavefrontmoves.pdf Graphic file (type pdf)
+
+<use virtualwavefrontmoves.pdf>
+Package pdftex.def Info: virtualwavefrontmoves.pdf used on input line 92.
+(pdftex.def)             Requested size: 227.62204pt x 135.38364pt.
+ [15 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/virtualwavef
+rontmoves.pdf>]
+<R1.pdf, id=187, 218.8175pt x 37.13875pt>
+File: R1.pdf Graphic file (type pdf)
+ <use R1.pdf>
+Package pdftex.def Info: R1.pdf used on input line 113.
+(pdftex.def)             Requested size: 85.35826pt x 14.48744pt.
+
+<R2.pdf, id=188, 190.7125pt x 118.4425pt>
+File: R2.pdf Graphic file (type pdf)
+ <use R2.pdf>
+Package pdftex.def Info: R2.pdf used on input line 118.
+(pdftex.def)             Requested size: 85.35826pt x 53.01126pt.
+
+<R3.pdf, id=189, 167.62625pt x 85.31876pt>
+File: R3.pdf Graphic file (type pdf)
+ <use R3.pdf>
+Package pdftex.def Info: R3.pdf used on input line 123.
+(pdftex.def)             Requested size: 85.35826pt x 43.44557pt.
+
+<R1virtual.pdf, id=190, 346.29375pt x 171.64125pt>
+File: R1virtual.pdf Graphic file (type pdf)
+ <use R1virtual.pdf>
+Package pdftex.def Info: R1virtual.pdf used on input line 130.
+(pdftex.def)             Requested size: 85.35826pt x 42.30782pt.
+
+<R2virtual.pdf, id=191, 346.29375pt x 171.64125pt>
+File: R2virtual.pdf Graphic file (type pdf)
+ <use R2virtual.pdf>
+Package pdftex.def Info: R2virtual.pdf used on input line 135.
+(pdftex.def)             Requested size: 85.35826pt x 42.30782pt.
+
+<R3virtual.pdf, id=192, 346.29375pt x 171.64125pt>
+File: R3virtual.pdf Graphic file (type pdf)
+ <use R3virtual.pdf>
+Package pdftex.def Info: R3virtual.pdf used on input line 140.
+(pdftex.def)             Requested size: 85.35826pt x 42.30782pt.
+ [16]
+Overfull \hbox (23.98184pt too wide) in paragraph at lines 148--148
+[]\OT1/cmr/bx/n/17.28 Gauss Di-a-grams for Vir-tual Leg-en-drian Knots 
+ []
+
+[17 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/R1.pdf> <C:/U
+sers/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/R2.pdf> <C:/Users/ulev
+iAS/Documents/Math/ALThesis-2013-10-06/ALThesis/R3.pdf> <C:/Users/uleviAS/Docum
+ents/Math/ALThesis-2013-10-06/ALThesis/R1virtual.pdf> <C:/Users/uleviAS/Documen
+ts/Math/ALThesis-2013-10-06/ALThesis/R2virtual.pdf> <C:/Users/uleviAS/Documents
+/Math/ALThesis-2013-10-06/ALThesis/R3virtual.pdf>]
+<goodcusps.pdf, id=219, 379.4175pt x 173.64874pt>
+File: goodcusps.pdf Graphic file (type pdf)
+ <use goodcusps.pdf>
+Package pdftex.def Info: goodcusps.pdf used on input line 158.
+(pdftex.def)             Requested size: 227.62204pt x 104.17679pt.
+
+<Gaussdiagram.pdf, id=220, 728.7225pt x 411.5375pt>
+File: Gaussdiagram.pdf Graphic file (type pdf)
+ <use Gaussdiagram.pdf>
+Package pdftex.def Info: Gaussdiagram.pdf used on input line 166.
+(pdftex.def)             Requested size: 227.62204pt x 128.54236pt.
+
+[18 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/goodcusps.pdf
+>]
+
+Package Fancyhdr Warning: \headheight is too small (16.0pt): 
+ Make it at least 27.18335pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/Gaussdiagram.
+pdf>] [20] [21]
+Overfull \hbox (12.26373pt too wide) in paragraph at lines 202--203
+\OT1/cmr/m/n/12 tion pre-serv-ing em-bed-dings $\OML/cmm/m/it/12 [] \OT1/cmr/m
+/n/12 : \OML/cmm/m/it/12 F[] \OMS/cmsy/m/n/12 ! \OML/cmm/m/it/12 F[]$ \OT1/cmr/
+m/n/12 and $\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 F[] \OMS/cm
+sy/m/n/12 ! \OML/cmm/m/it/12 F[]$ \OT1/cmr/m/n/12 such that $(\OML/cmm/m/it/12 
+F[]; []\OT1/cmr/m/n/12 ([])[])$
+ []
+
+[22] <blackboardkinks.pdf, id=245, 402.50375pt x 436.63126pt>
+File: blackboardkinks.pdf Graphic file (type pdf)
+
+<use blackboardkinks.pdf>
+Package pdftex.def Info: blackboardkinks.pdf used on input line 218.
+(pdftex.def)             Requested size: 170.71652pt x 185.18939pt.
+ [23]
+<flatBlackboardFrontMoves.pdf, id=250, 520.94624pt x 426.59375pt>
+File: flatBlackboardFrontMoves.pdf Graphic file (type pdf)
+
+<use flatBlackboardFrontMoves.pdf>
+Package pdftex.def Info: flatBlackboardFrontMoves.pdf used on input line 232.
+(pdftex.def)             Requested size: 227.62204pt x 186.39345pt.
+ [24 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/blackboardki
+nks.pdf> <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/flatBlac
+kboardFrontMoves.pdf>] [25]
+<flatDiagramMoves.pdf, id=270, 899.36pt x 486.81876pt>
+File: flatDiagramMoves.pdf Graphic file (type pdf)
+
+<use flatDiagramMoves.pdf>
+Package pdftex.def Info: flatDiagramMoves.pdf used on input line 267.
+(pdftex.def)             Requested size: 284.52756pt x 154.00983pt.
+ [26] [27 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/flatDia
+gramMoves.pdf>] [28] [29]
+<homotopyposnegstabilization.pdf, id=291, 547.04375pt x 234.8775pt>
+File: homotopyposnegstabilization.pdf Graphic file (type pdf)
+
+<use homotopyposnegstabilization.pdf>
+Package pdftex.def Info: homotopyposnegstabilization.pdf used on input line 313
+.
+(pdftex.def)             Requested size: 256.0748pt x 109.94803pt.
+ [30] [31 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/homotop
+yposnegstabilization.pdf>] [32]
+<crossingchange.pdf, id=305, 376.40625pt x 204.765pt>
+File: crossingchange.pdf Graphic file (type pdf)
+ <use crossingchange.pdf>
+Package pdftex.def Info: crossingchange.pdf used on input line 344.
+(pdftex.def)             Requested size: 85.35826pt x 46.43568pt.
+
+<wrongcrossingtofrontdiagram.pdf, id=306, 588.1975pt x 206.7725pt>
+File: wrongcrossingtofrontdiagram.pdf Graphic file (type pdf)
+
+<use wrongcrossingtofrontdiagram.pdf>
+Package pdftex.def Info: wrongcrossingtofrontdiagram.pdf used on input line 350
+.
+(pdftex.def)             Requested size: 170.71652pt x 60.01295pt.
+
+<legendriancrossingchange.pdf, id=307, 1018.80624pt x 204.765pt>
+File: legendriancrossingchange.pdf Graphic file (type pdf)
+
+<use legendriancrossingchange.pdf>
+Package pdftex.def Info: legendriancrossingchange.pdf used on input line 356.
+(pdftex.def)             Requested size: 256.0748pt x 51.46606pt.
+ [33] [34 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/crossin
+gchange.pdf> <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/wron
+gcrossingtofrontdiagram.pdf> <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-
+06/ALThesis/legendriancrossingchange.pdf>]
+Overfull \hbox (6.94244pt too wide) in paragraph at lines 378--379
+\OT1/cmr/m/n/12 Leg-en-drian vir-tual iso-topy class, and $[\OMS/cmsy/m/n/12 \
+OT1/cmr/m/n/12 ]$ de-notes a topo-log-i-cal vir-tual iso-topy class. 
+ []
+
+[35] [36]
+Overfull \hbox (1.7745pt too wide) in paragraph at lines 407--407
+[]\OT1/cmr/bx/n/14.4 The rel-a-tive num-ber of twists of two framed knots. 
+ []
+
+[37] [38] [39] [40] [41] [42] [43]
+Overfull \hbox (0.79694pt too wide) in paragraph at lines 519--520
+\OT1/cmr/m/it/12 vir-tual iso-topy class that are ho-mo-topic as vir-tual Leg-e
+n-drian curves. If $\OML/cmm/m/it/12 n[]; n[]; n[]; n[] \OMS/cmsy/m/n/12 2$
+ []
+
+[44] <DoublePoint.pdf, id=357, 462.72874pt x 231.86626pt>
+File: DoublePoint.pdf Graphic file (type pdf)
+
+<use DoublePoint.pdf>
+Package pdftex.def Info: DoublePoint.pdf used on input line 550.
+(pdftex.def)             Requested size: 170.71652pt x 85.54504pt.
+ [45] [46 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/DoubleP
+oint.pdf>]) [47]
+
+LaTeX Warning: Citation `BGRL2001' undefined on input line 216.
+
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\ALThesis.bbl
+Underfull \hbox (badness 1281) in paragraph at lines 36--39
+[]\OT1/cmr/m/n/12 J. Hill, \OT1/cmr/m/it/12 Vassiliev-type in-vari-ants of pla-
+nar fronts with-out dan-ger-ous self-
+ []
+
+[48
+
+
+
+
+] [49]) [50]
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\ALThesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4643 strings out of 494045
+ 68278 string characters out of 3145963
+ 130324 words of memory out of 3000000
+ 7611 multiletter control sequences out of 15000+200000
+ 11069 words of font info for 41 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 44i,13n,45p,1702b,368s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on ALThesis.pdf (58 pages, 4051689 bytes).
+PDF statistics:
+ 430 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+
