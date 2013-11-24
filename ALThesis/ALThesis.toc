@@ -5,24 +5,24 @@
 \contentsline {section}{\numberline {1.1}Introduction}{1}
 \contentsline {section}{\numberline {1.2}Definitions}{3}
 \contentsline {subsection}{\numberline {1.2.1}Right and Left Null Geodesics}{3}
-\contentsline {section}{\numberline {1.3}Proof of 1.1\hbox {}}{5}
-\contentsline {chapter}{\numberline {2}Virtual Legendrian Knots}{8}
-\contentsline {section}{\numberline {2.1}Introduction}{8}
-\contentsline {section}{\numberline {2.2}Virtual Legendrian Knot Diagrams}{14}
-\contentsline {section}{\numberline {2.3}Flat Virtual Knots}{15}
-\contentsline {section}{\numberline {2.4}Gauss Diagrams for Virtual Legendrian Knots}{17}
-\contentsline {section}{\numberline {2.5}Virtual Framed and Virtual Legendrian Isotopy in the Spherical Cotangent Bundle}{19}
-\contentsline {subsection}{\numberline {2.5.1}The natural contact structure on the spherical cotangent bundle}{20}
-\contentsline {subsection}{\numberline {2.5.2}Virtual isotopy in the spherical cotangent bundle of a surface.}{20}
-\contentsline {subsection}{\numberline {2.5.3}Virtual framed isotopy in the spherical cotangent bundle}{21}
-\contentsline {subsubsection}{The blackboard framing}{22}
-\contentsline {subsubsection}{The flat projection of a virtual blackboard framed knot}{23}
-\contentsline {subsection}{\numberline {2.5.4}Virtual Legendrian Isotopy}{25}
-\contentsline {section}{\numberline {2.6}Flat Framed Virtual Knot Diagrams}{26}
-\contentsline {section}{\numberline {2.7}Equivalent Definitions of Virtual Legendrian Isotopy}{27}
-\contentsline {section}{\numberline {2.8}Virtual Versions of the Classical Invariants}{30}
-\contentsline {section}{\numberline {2.9}Vassiliev Invariants}{34}
-\contentsline {section}{\numberline {2.10}Construction of the Isomorphism}{35}
-\contentsline {subsection}{\numberline {2.10.1}The relative number of twists of two framed knots.}{37}
-\contentsline {section}{\numberline {2.11}Proof of Theorem 2.10.1\hbox {}}{41}
-\contentsline {chapter}{References}{48}
+\contentsline {section}{\numberline {1.3}Proof of 1.1\hbox {}}{4}
+\contentsline {chapter}{\numberline {2}Virtual Legendrian Knots}{6}
+\contentsline {section}{\numberline {2.1}Introduction}{6}
+\contentsline {section}{\numberline {2.2}Virtual Legendrian Knot Diagrams}{12}
+\contentsline {section}{\numberline {2.3}Flat Virtual Knots}{13}
+\contentsline {section}{\numberline {2.4}Gauss Diagrams for Virtual Legendrian Knots}{15}
+\contentsline {section}{\numberline {2.5}Virtual Framed and Virtual Legendrian Isotopy in the Spherical Cotangent Bundle}{17}
+\contentsline {subsection}{\numberline {2.5.1}The natural contact structure on the spherical cotangent bundle}{18}
+\contentsline {subsection}{\numberline {2.5.2}Virtual isotopy in the spherical cotangent bundle of a surface.}{18}
+\contentsline {subsection}{\numberline {2.5.3}Virtual framed isotopy in the spherical cotangent bundle}{19}
+\contentsline {subsubsection}{The blackboard framing}{20}
+\contentsline {subsubsection}{The flat projection of a virtual blackboard framed knot}{21}
+\contentsline {subsection}{\numberline {2.5.4}Virtual Legendrian Isotopy}{23}
+\contentsline {section}{\numberline {2.6}Flat Framed Virtual Knot Diagrams}{24}
+\contentsline {section}{\numberline {2.7}Equivalent Definitions of Virtual Legendrian Isotopy}{25}
+\contentsline {section}{\numberline {2.8}Virtual Versions of the Classical Invariants}{28}
+\contentsline {section}{\numberline {2.9}Vassiliev Invariants}{32}
+\contentsline {section}{\numberline {2.10}Construction of the Isomorphism}{33}
+\contentsline {subsection}{\numberline {2.10.1}The relative number of twists of two framed knots.}{35}
+\contentsline {section}{\numberline {2.11}Proof of Theorem 2.10.1\hbox {}}{39}
+\contentsline {chapter}{References}{46}

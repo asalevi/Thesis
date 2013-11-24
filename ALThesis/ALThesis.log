@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.28)  12 NOV 2013 22:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.28)  24 NOV 2013 17:55
 entering extended mode
 **C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/ALThesis.tex
 (C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/ALThesis.tex
@@ -381,109 +381,101 @@ Chapter 1.
 
 
 
-] [2] [3] [4] <simpleRefocussingNbhd.pdf, id=50, 481.8pt x 160.6pt>
-File: simpleRefocussingNbhd.pdf Graphic file (type pdf)
-
-<use simpleRefocussingNbhd.pdf>
-Package pdftex.def Info: simpleRefocussingNbhd.pdf used on input line 68.
-(pdftex.def)             Requested size: 341.43306pt x 113.81358pt.
-
-<refocussingNbhd.pdf, id=51, 481.8pt x 160.6pt>
+] [2] [3] [4] <refocussingNbhd.pdf, id=47, 481.8pt x 160.6pt>
 File: refocussingNbhd.pdf Graphic file (type pdf)
- <use refocussingNbhd.pdf>
-Package pdftex.def Info: refocussingNbhd.pdf used on input line 82.
-(pdftex.def)             Requested size: 341.43306pt x 113.81358pt.
 
-[5] [6 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/simpleRefo
-cussingNbhd.pdf> <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/
-refocussingNbhd.pdf>]) [7]
+<use refocussingNbhd.pdf>
+Package pdftex.def Info: refocussingNbhd.pdf used on input line 60.
+(pdftex.def)             Requested size: 341.43306pt x 113.81358pt.
+) [5 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/refocussingN
+bhd.pdf>]
 Chapter 2.
-(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\vlk.tex [8
+(C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\vlk.tex [6
 
 ]
-<dangerousTangencyMove.pdf, id=140, 605.26125pt x 302.12875pt>
+<dangerousTangencyMove.pdf, id=99, 605.26125pt x 302.12875pt>
 File: dangerousTangencyMove.pdf Graphic file (type pdf)
 
 <use dangerousTangencyMove.pdf>
 Package pdftex.def Info: dangerousTangencyMove.pdf used on input line 15.
 (pdftex.def)             Requested size: 142.26378pt x 71.01408pt.
- [9 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/dangerousTang
+ [7 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/dangerousTang
 encyMove.pdf>]
-<wavefrontmoves.pdf, id=151, 432.61626pt x 633.36626pt>
+<wavefrontmoves.pdf, id=110, 432.61626pt x 633.36626pt>
 File: wavefrontmoves.pdf Graphic file (type pdf)
 
 <use wavefrontmoves.pdf>
 Package pdftex.def Info: wavefrontmoves.pdf used on input line 31.
 (pdftex.def)             Requested size: 170.71652pt x 249.93048pt.
- [10] [11 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/wavefro
-ntmoves.pdf>] [12] [13] [14]
-<virtualwavefrontmoves.pdf, id=176, 693.59125pt x 412.54124pt>
+ [8] [9 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/wavefront
+moves.pdf>] [10] [11] [12]
+<virtualwavefrontmoves.pdf, id=135, 693.59125pt x 412.54124pt>
 File: virtualwavefrontmoves.pdf Graphic file (type pdf)
 
 <use virtualwavefrontmoves.pdf>
 Package pdftex.def Info: virtualwavefrontmoves.pdf used on input line 92.
 (pdftex.def)             Requested size: 227.62204pt x 135.38364pt.
- [15 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/virtualwavef
+ [13 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/virtualwavef
 rontmoves.pdf>]
-<R1.pdf, id=187, 218.8175pt x 37.13875pt>
+<R1.pdf, id=146, 218.8175pt x 37.13875pt>
 File: R1.pdf Graphic file (type pdf)
  <use R1.pdf>
 Package pdftex.def Info: R1.pdf used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 14.48744pt.
 
-<R2.pdf, id=188, 190.7125pt x 118.4425pt>
+<R2.pdf, id=147, 190.7125pt x 118.4425pt>
 File: R2.pdf Graphic file (type pdf)
  <use R2.pdf>
 Package pdftex.def Info: R2.pdf used on input line 118.
 (pdftex.def)             Requested size: 85.35826pt x 53.01126pt.
 
-<R3.pdf, id=189, 167.62625pt x 85.31876pt>
+<R3.pdf, id=148, 167.62625pt x 85.31876pt>
 File: R3.pdf Graphic file (type pdf)
  <use R3.pdf>
 Package pdftex.def Info: R3.pdf used on input line 123.
 (pdftex.def)             Requested size: 85.35826pt x 43.44557pt.
 
-<R1virtual.pdf, id=190, 346.29375pt x 171.64125pt>
+<R1virtual.pdf, id=149, 346.29375pt x 171.64125pt>
 File: R1virtual.pdf Graphic file (type pdf)
  <use R1virtual.pdf>
 Package pdftex.def Info: R1virtual.pdf used on input line 130.
 (pdftex.def)             Requested size: 85.35826pt x 42.30782pt.
 
-<R2virtual.pdf, id=191, 346.29375pt x 171.64125pt>
+<R2virtual.pdf, id=150, 346.29375pt x 171.64125pt>
 File: R2virtual.pdf Graphic file (type pdf)
  <use R2virtual.pdf>
 Package pdftex.def Info: R2virtual.pdf used on input line 135.
 (pdftex.def)             Requested size: 85.35826pt x 42.30782pt.
 
-<R3virtual.pdf, id=192, 346.29375pt x 171.64125pt>
+<R3virtual.pdf, id=151, 346.29375pt x 171.64125pt>
 File: R3virtual.pdf Graphic file (type pdf)
  <use R3virtual.pdf>
 Package pdftex.def Info: R3virtual.pdf used on input line 140.
 (pdftex.def)             Requested size: 85.35826pt x 42.30782pt.
- [16]
+ [14]
 Overfull \hbox (23.98184pt too wide) in paragraph at lines 148--148
 []\OT1/cmr/bx/n/17.28 Gauss Di-a-grams for Vir-tual Leg-en-drian Knots 
  []
 
-[17 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/R1.pdf> <C:/U
+[15 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/R1.pdf> <C:/U
 sers/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/R2.pdf> <C:/Users/ulev
 iAS/Documents/Math/ALThesis-2013-10-06/ALThesis/R3.pdf> <C:/Users/uleviAS/Docum
 ents/Math/ALThesis-2013-10-06/ALThesis/R1virtual.pdf> <C:/Users/uleviAS/Documen
 ts/Math/ALThesis-2013-10-06/ALThesis/R2virtual.pdf> <C:/Users/uleviAS/Documents
 /Math/ALThesis-2013-10-06/ALThesis/R3virtual.pdf>]
-<goodcusps.pdf, id=219, 379.4175pt x 173.64874pt>
+<goodcusps.pdf, id=177, 379.4175pt x 173.64874pt>
 File: goodcusps.pdf Graphic file (type pdf)
  <use goodcusps.pdf>
 Package pdftex.def Info: goodcusps.pdf used on input line 158.
 (pdftex.def)             Requested size: 227.62204pt x 104.17679pt.
 
-<Gaussdiagram.pdf, id=220, 728.7225pt x 411.5375pt>
+<Gaussdiagram.pdf, id=178, 728.7225pt x 411.5375pt>
 File: Gaussdiagram.pdf Graphic file (type pdf)
  <use Gaussdiagram.pdf>
 Package pdftex.def Info: Gaussdiagram.pdf used on input line 166.
 (pdftex.def)             Requested size: 227.62204pt x 128.54236pt.
 
-[18 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/goodcusps.pdf
+[16 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/goodcusps.pdf
 >]
 
 Package Fancyhdr Warning: \headheight is too small (16.0pt): 
@@ -491,8 +483,8 @@ Package Fancyhdr Warning: \headheight is too small (16.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/Gaussdiagram.
-pdf>] [20] [21]
+[17 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/Gaussdiagram.
+pdf>] [18] [19]
 Overfull \hbox (12.26373pt too wide) in paragraph at lines 202--203
 \OT1/cmr/m/n/12 tion pre-serv-ing em-bed-dings $\OML/cmm/m/it/12 [] \OT1/cmr/m
 /n/12 : \OML/cmm/m/it/12 F[] \OMS/cmsy/m/n/12 ! \OML/cmm/m/it/12 F[]$ \OT1/cmr/
@@ -501,46 +493,46 @@ sy/m/n/12 ! \OML/cmm/m/it/12 F[]$ \OT1/cmr/m/n/12 such that $(\OML/cmm/m/it/12
 F[]; []\OT1/cmr/m/n/12 ([])[])$
  []
 
-[22] <blackboardkinks.pdf, id=245, 402.50375pt x 436.63126pt>
+[20] <blackboardkinks.pdf, id=206, 402.50375pt x 436.63126pt>
 File: blackboardkinks.pdf Graphic file (type pdf)
 
 <use blackboardkinks.pdf>
 Package pdftex.def Info: blackboardkinks.pdf used on input line 218.
 (pdftex.def)             Requested size: 170.71652pt x 185.18939pt.
- [23]
-<flatBlackboardFrontMoves.pdf, id=250, 520.94624pt x 426.59375pt>
+ [21]
+<flatBlackboardFrontMoves.pdf, id=210, 520.94624pt x 426.59375pt>
 File: flatBlackboardFrontMoves.pdf Graphic file (type pdf)
 
 <use flatBlackboardFrontMoves.pdf>
 Package pdftex.def Info: flatBlackboardFrontMoves.pdf used on input line 232.
 (pdftex.def)             Requested size: 227.62204pt x 186.39345pt.
- [24 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/blackboardki
+ [22 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/blackboardki
 nks.pdf> <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/flatBlac
-kboardFrontMoves.pdf>] [25]
-<flatDiagramMoves.pdf, id=270, 899.36pt x 486.81876pt>
+kboardFrontMoves.pdf>] [23]
+<flatDiagramMoves.pdf, id=231, 899.36pt x 486.81876pt>
 File: flatDiagramMoves.pdf Graphic file (type pdf)
 
 <use flatDiagramMoves.pdf>
 Package pdftex.def Info: flatDiagramMoves.pdf used on input line 267.
 (pdftex.def)             Requested size: 284.52756pt x 154.00983pt.
- [26] [27 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/flatDia
-gramMoves.pdf>] [28] [29]
-<homotopyposnegstabilization.pdf, id=291, 547.04375pt x 234.8775pt>
+ [24] [25 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/flatDia
+gramMoves.pdf>] [26] [27]
+<homotopyposnegstabilization.pdf, id=251, 547.04375pt x 234.8775pt>
 File: homotopyposnegstabilization.pdf Graphic file (type pdf)
 
 <use homotopyposnegstabilization.pdf>
 Package pdftex.def Info: homotopyposnegstabilization.pdf used on input line 313
 .
 (pdftex.def)             Requested size: 256.0748pt x 109.94803pt.
- [30] [31 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/homotop
-yposnegstabilization.pdf>] [32]
-<crossingchange.pdf, id=305, 376.40625pt x 204.765pt>
+ [28] [29 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/homotop
+yposnegstabilization.pdf>] [30]
+<crossingchange.pdf, id=266, 376.40625pt x 204.765pt>
 File: crossingchange.pdf Graphic file (type pdf)
  <use crossingchange.pdf>
 Package pdftex.def Info: crossingchange.pdf used on input line 344.
 (pdftex.def)             Requested size: 85.35826pt x 46.43568pt.
 
-<wrongcrossingtofrontdiagram.pdf, id=306, 588.1975pt x 206.7725pt>
+<wrongcrossingtofrontdiagram.pdf, id=267, 588.1975pt x 206.7725pt>
 File: wrongcrossingtofrontdiagram.pdf Graphic file (type pdf)
 
 <use wrongcrossingtofrontdiagram.pdf>
@@ -548,13 +540,13 @@ Package pdftex.def Info: wrongcrossingtofrontdiagram.pdf used on input line 350
 .
 (pdftex.def)             Requested size: 170.71652pt x 60.01295pt.
 
-<legendriancrossingchange.pdf, id=307, 1018.80624pt x 204.765pt>
+<legendriancrossingchange.pdf, id=268, 1018.80624pt x 204.765pt>
 File: legendriancrossingchange.pdf Graphic file (type pdf)
 
 <use legendriancrossingchange.pdf>
 Package pdftex.def Info: legendriancrossingchange.pdf used on input line 356.
 (pdftex.def)             Requested size: 256.0748pt x 51.46606pt.
- [33] [34 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/crossin
+ [31] [32 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/crossin
 gchange.pdf> <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/wron
 gcrossingtofrontdiagram.pdf> <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-
 06/ALThesis/legendriancrossingchange.pdf>]
@@ -563,25 +555,25 @@ Overfull \hbox (6.94244pt too wide) in paragraph at lines 378--379
 OT1/cmr/m/n/12 ]$ de-notes a topo-log-i-cal vir-tual iso-topy class. 
  []
 
-[35] [36]
+[33] [34]
 Overfull \hbox (1.7745pt too wide) in paragraph at lines 407--407
 []\OT1/cmr/bx/n/14.4 The rel-a-tive num-ber of twists of two framed knots. 
  []
 
-[37] [38] [39] [40] [41] [42] [43]
+[35] [36] [37] [38] [39] [40] [41]
 Overfull \hbox (0.79694pt too wide) in paragraph at lines 519--520
 \OT1/cmr/m/it/12 vir-tual iso-topy class that are ho-mo-topic as vir-tual Leg-e
 n-drian curves. If $\OML/cmm/m/it/12 n[]; n[]; n[]; n[] \OMS/cmsy/m/n/12 2$
  []
 
-[44] <DoublePoint.pdf, id=357, 462.72874pt x 231.86626pt>
+[42] <DoublePoint.pdf, id=319, 462.72874pt x 231.86626pt>
 File: DoublePoint.pdf Graphic file (type pdf)
 
 <use DoublePoint.pdf>
 Package pdftex.def Info: DoublePoint.pdf used on input line 550.
 (pdftex.def)             Requested size: 170.71652pt x 85.54504pt.
- [45] [46 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/DoubleP
-oint.pdf>]) [47]
+ [43] [44 <C:/Users/uleviAS/Documents/Math/ALThesis-2013-10-06/ALThesis/DoubleP
+oint.pdf>]) [45]
 
 LaTeX Warning: Citation `BGRL2001' undefined on input line 216.
 
@@ -591,12 +583,12 @@ Underfull \hbox (badness 1281) in paragraph at lines 36--39
 nar fronts with-out dan-ger-ous self-
  []
 
-[48
+[46
 
 
 
 
-] [49]) [50]
+] [47]) [48]
 (C:\Users\uleviAS\Documents\Math\ALThesis-2013-10-06\ALThesis\ALThesis.aux)
 
 LaTeX Warning: There were undefined references.
@@ -606,13 +598,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4643 strings out of 494045
- 68278 string characters out of 3145963
+ 4626 strings out of 494045
+ 67879 string characters out of 3145963
  130324 words of memory out of 3000000
- 7611 multiletter control sequences out of 15000+200000
+ 7606 multiletter control sequences out of 15000+200000
  11069 words of font info for 41 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 44i,13n,45p,1702b,368s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,13n,45p,1702b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/
@@ -627,9 +619,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on ALThesis.pdf (58 pages, 4051689 bytes).
+Output written on ALThesis.pdf (56 pages, 4030920 bytes).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
+ 392 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
